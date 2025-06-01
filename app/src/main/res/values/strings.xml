@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">TP3</string>
+    <string name="id">Id</string>
+    <string name="username">Username</string>
+    <string name="address">Address</string>
+    <string name="phone">Phone Number</string>
+</resources>
